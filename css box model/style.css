@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+
+.Sec1 {
+    background-color: aqua;
+    font-style:italic;
+    padding: 20px;
+    margin: 50px;
+}
+
+.Sec2 {
+    font-style: italic;
+    background-color: burlywood;
+    font-weight: 700;
+    padding: 30px;
+}
